@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab1_part1-SahilGoel05/203lab1_part1-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab1_part1-SahilGoel05/203lab1_part1-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab1_part2-SahilGoel05/203lab1_part2-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab1_part2-SahilGoel05/203lab1_part2-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab2_part1-SahilGoel05/203lab2_part1-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab2_part1-SahilGoel05/203lab2_part1-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab2_part2-SahilGoel05/203lab2_part2-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab2_part2-SahilGoel05/203lab2_part2-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab3-SahilGoel05/203lab3-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab3-SahilGoel05/203lab3-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab4-SahilGoel05/203lab4-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab4-SahilGoel05/203lab4-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab6-SahilGoel05/203lab6-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab6-SahilGoel05/203lab6-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSC203.iml" filepath="$PROJECT_DIR$/.idea/CSC203.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/bignumber-project-SahilGoel05/bignumber-project-SahilGoel05.iml" filepath="$PROJECT_DIR$/Projects/bignumber-project-SahilGoel05/bignumber-project-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/forest-project-SahilGoel05/forest-project-SahilGoel05.iml" filepath="$PROJECT_DIR$/Projects/forest-project-SahilGoel05/forest-project-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab5-SahilGoel05/lab-5-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab5-SahilGoel05/lab-5-SahilGoel05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/203lab7-SahilGoel05/lab7-SahilGoel05.iml" filepath="$PROJECT_DIR$/Labs/203lab7-SahilGoel05/lab7-SahilGoel05.iml" />
+    </modules>
+  </component>
+</project>
